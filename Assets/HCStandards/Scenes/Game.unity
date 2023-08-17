@@ -72502,6 +72502,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 6843302835797737637, guid: 1c85a336a0f75374bae77d5a0e1118ca, type: 3}
+      propertyPath: catchScreenShot
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 6843302835797737641, guid: 1c85a336a0f75374bae77d5a0e1118ca, type: 3}
       propertyPath: m_Name
       value: HCStandards
